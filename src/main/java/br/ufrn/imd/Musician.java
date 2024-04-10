@@ -5,7 +5,7 @@ public class Musician extends Person {
     public boolean canImprovise;
     public boolean canCompose;
 
-    Musician() { }
+    public Musician(){}
 
-    public void play() { }
+    public void play(){}
 }

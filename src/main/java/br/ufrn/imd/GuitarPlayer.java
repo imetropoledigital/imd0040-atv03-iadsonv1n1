@@ -5,7 +5,7 @@ public class GuitarPlayer extends Musician{
     public boolean playEletronicGuitar;
     public boolean playAcousticGuitar;
 
-    GuitarPlayer() { }
+    public GuitarPlayer(){}
 
-    public void playGuitar() { }
+    public void playGuitar(){}
 }

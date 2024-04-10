@@ -4,13 +4,13 @@ public class Person {
     public String name;
     public String hometown;
 
-    Person() { }
-
-    public String name() {
-        return name;
-    }
+    public Person(){}
 
     public String hometown() {
-        return hometown;
+        return this.hometown;
     }
+    public String name() {
+        return this.name;
+    }
+
 }
